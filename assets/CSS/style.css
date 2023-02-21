@@ -86,7 +86,7 @@ nav ul li a:hover {
 
 .header-col-2 {
   flex-basis: 50%;
-  background-image: url(/images/HERO.png);
+  background-image: url(/assets/images/HERO.png);
   background-size: cover;
 }
 
